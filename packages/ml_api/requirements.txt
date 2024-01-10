@@ -1,0 +1,6 @@
+# api
+flask==1.0.2
+
+# local regression_model package
+# update with your local path
+-e "/home/alma_django/document/Mise_production/Tp1_A61_2024/packages/regression_model"

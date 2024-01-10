@@ -15,9 +15,9 @@ NAME = 'regression_model'
 # EMAIL = 'your_email@email.com'
 # AUTHOR = 'Your name'
 DESCRIPTION = 'Former et deployer un modele de regression.'
-URL = 'https://github.com/Raiders37/Tp1_A61_2024.git'
-EMAIL = 'demande@moile.com'
-AUTHOR = 'Cegep MB'
+URL = 'https://github.com/cegep2020/cours-A61.git'
+EMAIL = 'aamami@csfoy.ca'
+AUTHOR = 'Cegep AA'
 REQUIRES_PYTHON = '>=3.6.0'
 
 
