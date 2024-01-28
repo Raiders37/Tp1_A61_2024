@@ -10,11 +10,7 @@ from setuptools import find_packages, setup
 
 # Package meta-data.
 NAME = 'regression_model'
-# DESCRIPTION = 'Train and deploy regression model.'
-# URL = 'your github project'
-# EMAIL = 'your_email@email.com'
-# AUTHOR = 'Your name'
-DESCRIPTION = 'Former et deployer un modele de regression.'
+DESCRIPTION = 'Train and deploy regression model.'
 URL = 'https://github.com/Raiders37/Tp1_A61_2024.git'
 EMAIL = 'demande@moile.com'
 AUTHOR = 'Cegep MB'
