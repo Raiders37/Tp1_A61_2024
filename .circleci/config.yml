@@ -4,7 +4,8 @@ jobs:
     working_directory: ~/project
     docker:
       #- image: circleci/python:3.7.2
-      - image: cimg/python:3.8-node
+      - image: circleci/python:3.8.12
+      #- image: cimg/python:3.8-node
     steps:
       - checkout
       - run:
@@ -22,7 +23,8 @@ jobs:
     working_directory: ~/project
     docker:
       #- image: circleci/python:3.7.2
-      - image: cimg/python:3.8-node
+      - image: circleci/python:3.8.12
+      #- image: cimg/python:3.8-node
     steps:
       - checkout
       - run:
@@ -38,7 +40,8 @@ jobs:
     working_directory: ~/project
     docker:
       #- image: circleci/python:3.7.2
-      - image: cimg/python:3.8-node
+      - image: circleci/python:3.8.12
+      #- image: cimg/python:3.8-node
     steps:
       - checkout
       - run: 
